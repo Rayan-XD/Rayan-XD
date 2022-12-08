@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 ![DUMAI-200](https://komarev.com/ghpvc/?username=Dumai-200&color=blue)
 >
 ## MY SOCIAL MEDIA
-[![](https://img.shields.io/badge/Github-black?logo=Github&logoColor=black&labelColor=white)](https://github.com/Rayan-XD)
-[![](https://img.shields.io/badge/Whatsapp-CHAT-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/6285852768706?text=Asalamualaikum+kak+Rayan+ganteng)
+[![](https://img.shields.io/badge/Github-black?logo=Github&logoColor=black&labelColor=white)](https://github.com/Rayan-XD)[]()
+[![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/mas.rayan.xd)[![](https://img.shields.io/badge/Instagram-red?logo=Instagram&logoColor=red&labelColor=white)](https://www.instagram.com/rayan.xd.1) [![](https://img.shields.io/badge/Whatsapp-CHAT-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/6285852768706?text=Hallo+author+noob)
 ## KASIH STAR LAH BLOK🌟🌟🌟🌟🌟🌟🌟
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Follow+Rayan-XD❤️....!+)
