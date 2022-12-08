@@ -1,41 +1,50 @@
-WELCOME TO MY PROFILE
+<p align='center' class="main">
+<h1><img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>Rayan-XD 🔥
+</h1>
+<div align="center">noob programmer.</div>
+<br>
+<h3 align="left">About me :</h3>
 
-🔥 Rayan-XD 🔥
- ! 
+````
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+class PythonProgrammer:
+    def __init__(self):
+        self.name = "Rayan-XD"
+        self.role = "Programmer"
+        self.org = "Rayan-XD"
+        self.language_spoken = ["bn_BD", "en_US"
 
-![Alt text](https://github.com/MRVIVEK-CODER/MRVIVEK-CODER/raw/main/md7Oqrf.gif)
+    def say_hi(self):
+        print("Thanks for visiting my Github")
 
-- ![Alt text](https://github.com/MRVIVEK-CODER/MRVIVEK-CODER/raw/main/Developer.gif)
-
-<!--
-**Naim75o/Naim75o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+me = PythonProgrammer()
+me.say_hi()
+````
 
 
-</p>
-<h1 align="center">★ You Crazy ★ <img src="https://github.com/mitul3737/mitul3737/blob/main/mituls code.gif"
-<h1 align="center">★ STATISTICS ★</i></b></h3>
-<a href="https://github.com/Hunter-alamin"><img width=550 src="https://github-profile-trophy.vercel.app/?username=Hunter-alamin&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
-<li> 😍 <i> I LOVE YOU</i></li>
-<li> 🌚 <i> KONTOL</i></li>
-<li> 👩‍💻 <i> BUKAN SUHU</i></li>
-<li> 🌟 <i> FOCUSING ON PYTHON</i></li><br>
+<div align="center">
+	<a href="https://hits.seeyoufarm.com" title="Profile Hits"><img
+			src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Rayan-XD&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Hits&edge_flat=false" /></a>
+	<a href="https:/github.com/Rayan-XD"><img src="https://komarev.com/ghpvc/?username=Rayan-XD&label=Profile%20views&color=0e75b6&style=flat"
+			title="Profile Vews"></a>
+</div>
+<hr>
+<div align="center">
+	<p align='center'>
+		<a href="#"><img
+				src="https://github-readme-stats.vercel.app/api?username=Rayan-XD&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"
+				width="400" title="Rayan-XD Github Starts"></a>
+	</p>
+	<p align='center'>
+		<a href="#"><img
+				src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Rayan-XD&layout=compact&theme=chartreuse-dark"
+				width="400" title="Most Used Languages"></a></p>
+        <p align='center'>
+                <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com?user=Rayan-XD&theme=dark" width="400" title="Github Streak Stats"></a></p>
+	<p align='center'>
 
+  
 ## ★ Github data ★
 >
 > *Number of visitors*
