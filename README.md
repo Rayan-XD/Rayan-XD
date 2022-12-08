@@ -21,13 +21,6 @@ class PythonProgrammer:
 me = PythonProgrammer()
 me.say_hi()
 ````
-
-
-<div align="center">
-	<a href="https://hits.seeyoufarm.com" title="Profile Hits"><img
-			src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Rayan-XD&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Hits&edge_flat=false" /></a>
-	<a href="https:/github.com/Rayan-XD"><img src="https://komarev.com/ghpvc/?username=Rayan-XD&label=Profile%20views&color=0e75b6&style=flat"
-			title="Profile Vews"></a>
 </div>
 <hr>
 <div align="center">
