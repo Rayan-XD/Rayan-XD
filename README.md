@@ -40,12 +40,12 @@ Here are some ideas to get you started:
 >
 > *Number of visitors*
 * **Visitor Github @Rayan-XD**
-![DUMAI-991](https://komarev.com/ghpvc/?username=Dumai-991&color=blue)
+![DUMAI-991](https://komarev.com/ghpvc/?username=Dumai-991&color=green)
 * **Visitor Trending @Rayan-XD**
 ![DUMAI-200](https://komarev.com/ghpvc/?username=Dumai-200&color=blue)
 >
 ## MY SOCIAL MEDIA
 [![](https://img.shields.io/badge/Github-black?logo=Github&logoColor=black&labelColor=white)](https://github.com/Rayan-XD)[]()
 [![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/mas.rayan.xd)[![](https://img.shields.io/badge/Instagram-red?logo=Instagram&logoColor=red&labelColor=white)](https://www.instagram.com/rayan.xd.1) [![](https://img.shields.io/badge/Whatsapp-CHAT-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/6285852768706?text=Hallo+author+noob)
-## KASIH STAR LAH BLOK🌟🌟🌟🌟🌟🌟🌟
+## KASIH STAR LAH KONTOL🌟🌟🌟🌟🌟
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Follow+Rayan-XD❤️....!+)
